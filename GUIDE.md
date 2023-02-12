@@ -10,6 +10,8 @@ Guide to my repositories
 
 `probability-mosteller` This is a "reworking" of the delightful book *Fifty Challenging Problems in Probability and Their Solutions* by Frederick Mosteller. English and Hebrew.
 
+`probability` Probability projects (except for reworking of Mosteller).
+
 `bagrut` Complete and detailed solutions of the Israeli Matriculation Exams in Mathematics 806/581 for the years 2014-2018. A separate documents contains the solutions of the problems in probability from 2014-2022. Hebrew.
 
 `mathematics` Learning materials primarily for secondary-school mathematics.

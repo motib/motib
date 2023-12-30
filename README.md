@@ -8,6 +8,4 @@
 
 - I developed many open-source learning materials and educational software, first in computer science and now in mathematics.
 
-- The documents are in LaTeX and the Hebrew documents use XeLaTeX. The software was written in various languages.
-
 - An overview of the repositories appears in `GUIDE.md` in this repository.

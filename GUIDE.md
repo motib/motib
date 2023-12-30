@@ -1,14 +1,20 @@
 ﻿# Moti Ben-Ari
 
-Guide to my repositories
+Repositories
 
 ---
 
 ## Mathematics
 
-`surprises` The source code for my open access book *Mathematical Surprises*, Springer, 2022. The Hebrew translation also includes the PDF.
+`gentle-lean` An introductory tutorial on the Lean 4 proof assistant. Lean source files of the examples are included.
+
+`orbits` An overview of the mathematics of planetary orbits: how Kepler understood that orbits are elliptical and Newton's complex proof that an elliptical orbit is the result of an inverse-square centripetal force. The document delves into the extensive use of Euclidean geometry throughout the nineteenth century.
+
+`surprises` The source code for my open access book *Mathematical Surprises*, Springer, 2022. There are translations into Hebrew, French, Spanish, German.
 
 `probability-mosteller` This is a "reworking" of the delightful book *Fifty Challenging Problems in Probability and Their Solutions* by Frederick Mosteller. English and Hebrew.
+
+`markov` Simulations of Markov processes written in Python 3.
 
 `bagrut` Complete and detailed solutions of the Israeli Matriculation Exams in Mathematics 806/581 for the years 2014-2018. A separate documents contains the solutions of the problems in probability from 2014-2022. Hebrew.
 

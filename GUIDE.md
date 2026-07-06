@@ -6,6 +6,8 @@ Repositories
 
 ## Mathematics
 
+`ellipses` The source code for my open access book *The Geometry of Ellipses and Planetary Orbits*, Springer 2026.
+
 `surprises` The source code for my open access book *Mathematical Surprises*, Springer, 2022. There are translations into Hebrew, French, Spanish, German.
 
 `probability-mosteller` This is a "reworking" of the delightful book *Fifty Challenging Problems in Probability and Their Solutions* by Frederick Mosteller. English and Hebrew.

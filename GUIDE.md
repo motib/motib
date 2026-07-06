@@ -6,9 +6,7 @@ Repositories
 
 ## Mathematics
 
-`gentle-lean` An introductory tutorial on the Lean 4 proof assistant. Lean source files of the examples are included.
-
-`orbits` An overview of the mathematics of planetary orbits: how Kepler understood that orbits are elliptical and Newton's complex proof that an elliptical orbit is the result of an inverse-square centripetal force. The document delves into the extensive use of Euclidean geometry throughout the nineteenth century.
+`ellipses` The source code for my open access book *The Geometry of Ellipses and Planetary Orbits*, Springer 2026.
 
 `surprises` The source code for my open access book *Mathematical Surprises*, Springer, 2022. There are translations into Hebrew, French, Spanish, German.
 
@@ -56,5 +54,15 @@ Repositories
 
 `daj` "Distributed Algorithms in Java" is a software tool for interactively running distributed algorithms. Implementations of fourteen algorithms are included such as the Byzantine Generals and the Chandy-Lamport algorithm for global snapshots.
 
-`jbaci` A simulator for concurrent programming in both C and Pascal. I regard this as obsolete and deprecated.
+
+
+---
+
+## Deprecated
+
+`jbaci` [**Deprecated with intent to delete in the new future**] An (obsolete) simulator for concurrent programming in both C and Pascal.
+
+`gentle-lean` [**Deprecated and deleted**: this was a trial project that never continued] An introductory tutorial on the Lean 4 proof assistant. Lean source files of the examples are included.
+
+`orbits` [**Deprecated and deleted**: I have expanded this document into a book which I will attempt to get published]  An overview of the mathematics of planetary orbits.
 

@@ -8,4 +8,4 @@
 
 - I developed many open-source learning materials and educational software that are available on this GitHub site.
 
-- An overview of the repositories appears in `GUIDE.md` in this repository.
+- An overview of the repositories appears in `GUIDE.md` in this repository, as does my CV.
